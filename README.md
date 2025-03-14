@@ -60,3 +60,14 @@ Predict which customers are likely to churn (stop using the service) and send re
    }
 8. Run streamlit file 'dashboard/streamlit_app.py' using command 'streamlit run dashboard/streamlit_app.py'
 9. Open Streamlit dashboard using URL : http://localhost:8501/
+
+## Project Output Here
+|   |  |
+|----------|----------|
+| ![image](https://github.com/user-attachments/assets/171a9a1f-ca1e-496a-bf8c-3a71bc8570c7) | ![image](https://github.com/user-attachments/assets/733dd6f9-3edd-4285-8072-217c79594681) |
+| ![image](https://github.com/user-attachments/assets/006a34b0-f07a-4b40-9fb5-9f2937d01fef) | ![image](https://github.com/user-attachments/assets/1badb49d-967b-411f-9bd2-fcd64bdfcb8e) |
+
+
+
+
+
